@@ -1,0 +1,14 @@
+{
+    "name": "rohitrajv5/vue-todo-list",
+    "description": "Vue JS todo list creator",
+    "type": "project",
+    "license": "Free",
+    "authors": [
+        {
+            "name": "Rohit Raj Verma",
+            "email": "rohitrajv5@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
